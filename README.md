@@ -3,6 +3,7 @@
 ## Installation
 
 `brew install pipenv`
+`pipenv shell`
 `pipenv install`
 
 ## Usage
